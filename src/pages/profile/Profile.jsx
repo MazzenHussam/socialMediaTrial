@@ -15,8 +15,8 @@ return (
         <div className="profileRight">
             <div className="profileRightTop">
                 <div className="profileCover">
-                    <img className="profileCoverImg" src="../../../public/assets/4.jpeg" alt="Cover picture"/>
-                    <img className="profileUserImg" src="../../../public/assets/2.jpeg" alt="User picture"/> 
+                    <img className="profileCoverImg" src="/socialMediaTrial/assets/4.jpeg" alt="Cover picture"/>
+                    <img className="profileUserImg" src="/socialMediaTrial/assets/2.jpeg" alt="User picture"/> 
                 </div>
                 <div className="profileInfo">
                     <h4 className="profileInfoName">Mazen Hussam</h4>
